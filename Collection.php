@@ -6,6 +6,8 @@ class KeyhasUseException extends Exception {
 class KeyInvalidException extends Exception {
 }
 
+
+// añado algo...
 class collection 
 {
     private $items = array();
